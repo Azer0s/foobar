@@ -1,4 +1,4 @@
-## My attempts at the Google foobar code-challenge
+## My attempts at the Google foobar coding challenge
 
 ### Level 1:
 
